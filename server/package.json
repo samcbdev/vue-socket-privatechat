@@ -1,0 +1,14 @@
+{
+    "name": "server",
+    "version": "0.0.1",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "Samcb <samuelraja95@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "socket.io": "^4.5.4"
+    }
+}
